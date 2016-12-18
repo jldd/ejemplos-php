@@ -45,7 +45,4 @@ echo $subTituloH2;
 echo $parrafo1;
 finalBody();
 
-
-
-
 ?>
