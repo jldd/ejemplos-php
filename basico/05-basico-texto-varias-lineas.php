@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo básico de PHP - htts://www.dinapyme.com
+	// Ejemplo básico de PHP - https://www.dinapyme.com
 	// Mostrar texto con echo sin espacios, en varias líneas
 	
 	echo "Este texto se mostrará

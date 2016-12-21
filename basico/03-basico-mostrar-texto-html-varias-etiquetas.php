@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo básico de PHP - htts://www.dinapyme.com
+	// Ejemplo básico de PHP - https://www.dinapyme.com
 	// Mostrar texto con html por pantalla
 	// En este ejemplo mostramos un texto dentro de una etiqute h1 por pantalla (html).
 	// También muestra algo más de texto con otras etiquetas html.

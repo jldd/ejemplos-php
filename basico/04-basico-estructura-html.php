@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo básico de PHP - htts://www.dinapyme.com
+	// Ejemplo básico de PHP - https://www.dinapyme.com
 	// Crear estructura básica de un documento html con php
 	
 	echo "<!DOCTYPE html>";
