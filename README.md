@@ -1,2 +1,2 @@
 # ejemplos-php
-Ejemplos de programación en PHP
+Repositorios de ejemplos y ejercios de programacin en PHP para reforzar la formacin de http://www.dinapyme.com.
