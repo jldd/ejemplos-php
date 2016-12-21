@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de variables PHP - htts://www.dinapyme.com
+	// Ejemplo de variables PHP - https://www.dinapyme.com
 	// Cambio de tipo de variable con CASTING
 	// En este ejemplo realizamos varios cambios de tipo de una variable y los vamos mostrando.
 		

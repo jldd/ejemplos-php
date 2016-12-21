@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de Condicioales en  PHP - htts://www.dinapyme.com
+	// Ejemplo de Condicioales en  PHP - https://www.dinapyme.com
 	// Ejemplo sobre IF	sin utilizar Else
 	// Comprobar si el número es mayor o igual que 18 y si es así mostrar un texto.
 	

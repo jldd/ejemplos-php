@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de operadores y expresiones PHP - htts://www.dinapyme.com
+	// Ejemplo de operadores y expresiones PHP - https://www.dinapyme.com
 	// Operadores de comparación. ==
 	// En este ejemplo dos pruebas con el operador ==.
 	

@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de Condicioales en  PHP - htts://www.dinapyme.com
+	// Ejemplo de Condicioales en  PHP - https://www.dinapyme.com
 	// Ejemplo sobre IF	sin utilizar Else
 	// Mostrar el texto solo si el contenido de la variable es Viernes.
 	

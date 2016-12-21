@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de variables PHP - htts://www.dinapyme.com
+	// Ejemplo de variables PHP - https://www.dinapyme.com
 	// Comprobación de el tipo de variables
 	// En este ejemplo relizamos la comprobación del tipo de una variable para saber si es null, entero, string, flotante o booleano.
 	// Utilizamos las funciones de la familia is_*** como: is_null(), is_int(), is_string(), is_double(), is_bool()

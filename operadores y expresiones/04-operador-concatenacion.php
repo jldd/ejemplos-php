@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de operadores y expresiones PHP - htts://www.dinapyme.com
+	// Ejemplo de operadores y expresiones PHP - https://www.dinapyme.com
 	// Operador de concatenación  ( . ).
 	// En este ejemplo creamos una variable, les asignamos un valor.
 	// Posteriormente utilizamos el operador de concatenación para mostrar la variable y texto.

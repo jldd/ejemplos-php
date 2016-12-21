@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de operadores y expresiones PHP - htts://www.dinapyme.com
+	// Ejemplo de operadores y expresiones PHP - https://www.dinapyme.com
 	// Operador de Asinación  ( = ).
 	// En este ejemplo creamos varias variable y les asignamos un valor.
 	

@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de variables PHP - htts://www.dinapyme.com
+	// Ejemplo de variables PHP - https://www.dinapyme.com
 	// Crear 2 variables de tipo entero.
 	// Realizar las cuatro diferentes operaciones aritméticas y guardar los resultados en las variables: suma, resta, multiplicacion y division
 	// Por último, mostrar el resultado de las operaciones

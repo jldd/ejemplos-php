@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de operadores y expresiones PHP - htts://www.dinapyme.com
+	// Ejemplo de operadores y expresiones PHP - https://www.dinapyme.com
 	// Operadores aritméticos: +, -, /, *, %
 	// En este ejemplo realizamos las diferentes operaciones y mostramos los resultados por pantalla.
 

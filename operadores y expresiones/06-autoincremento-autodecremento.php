@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de operadores y expresiones PHP - htts://www.dinapyme.com
+	// Ejemplo de operadores y expresiones PHP - https://www.dinapyme.com
 	// Autoincremento y autodecremento:  x++, x--, ++x, --x
 	// En este ejemplo realizamos varias pruebas de autoincremento y autodecremento.
 	

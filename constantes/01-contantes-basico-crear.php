@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de constantes PHP - htts://www.dinapyme.com
+	// Ejemplo de constantes PHP - https://www.dinapyme.com
 	// Creación de una constante y muestra por pantalla
 	
 	// Deifinir una constante sencilla

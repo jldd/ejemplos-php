@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de variables PHP - htts://www.dinapyme.com
+	// Ejemplo de variables PHP - https://www.dinapyme.com
 	// Crear 2 variables de tipo entero.
 	// Almacenar el resultado de la suma de las dos variables en otra variable Resultado y mostralo por pantalla.
 	

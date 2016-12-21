@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de Condicioales en  PHP - htts://www.dinapyme.com
+	// Ejemplo de Condicioales en  PHP - https://www.dinapyme.com
 	// Ejemplo sobre ELSEIF
 	// Mostrar un mensaje dependiendo de la temperatura.
 	

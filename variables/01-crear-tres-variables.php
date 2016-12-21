@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de variables PHP - htts://www.dinapyme.com
+	// Ejemplo de variables PHP - https://www.dinapyme.com
 	// Crear tres variables de diferentes tipos: string, entero y booleana
 	
 	$texto = "Variable de tipo texto";

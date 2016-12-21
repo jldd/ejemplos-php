@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de Condicioales en  PHP - htts://www.dinapyme.com
+	// Ejemplo de Condicioales en  PHP - https://www.dinapyme.com
 	// Ejemplo sobre IF	y Else
 	// Mostrar un mensaje si es fin de semana y otro si no lo es.
 	

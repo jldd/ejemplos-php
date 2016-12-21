@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de Condicioales en  PHP - htts://www.dinapyme.com
+	// Ejemplo de Condicioales en  PHP - https://www.dinapyme.com
 	// Ejemplo sobre IF	con Else  (sin elseif)
 	// Dados dos números enteros, decir cual es el mayor de los dos.
 	

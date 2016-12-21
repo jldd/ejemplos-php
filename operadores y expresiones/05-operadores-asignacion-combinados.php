@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de operadores y expresiones PHP - htts://www.dinapyme.com
+	// Ejemplo de operadores y expresiones PHP - https://www.dinapyme.com
 	// Operadores de asignación combinados: +=, -=, /=, *=, %=, .=
 	// En este ejemplo creamos una variable, les asignamos un valor.
 	// Posteriormente utilizamos los diferentes operadores de asingación combinados para realizar las operciones o mostra los resultados.

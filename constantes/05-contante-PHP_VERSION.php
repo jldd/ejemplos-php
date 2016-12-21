@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de constantes PHP - htts://www.dinapyme.com
+	// Ejemplo de constantes PHP - https://www.dinapyme.com
 	// Constante predefinida PHP_VERSION
 	
 	// Mostrar la versión actual de PHP con la constante PHP_VERSION
