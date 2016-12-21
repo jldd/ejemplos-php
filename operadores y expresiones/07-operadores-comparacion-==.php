@@ -6,7 +6,7 @@
 	$numero = 10;  // variable para los ejemeplos
 	
 	// Título
-	echo "<center><h1>Operadores de Comparación</h1></center>";
+	echo "<center><h1>Operadores de Comparación - Igual (==)</h1></center>";
 	
 	// mostrar si el contenido de la variable $número es 10.
 	echo "Comprobar si \$numero es igual a 10: ";
