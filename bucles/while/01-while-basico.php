@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de Condicionales en  PHP - https://www.dinapyme.com
+	// Ejemplo de Bucles en  PHP - https://www.dinapyme.com
 	// Ejemplo sobre Operador While
 	// Creamos un buclie con While hasta que el número sea 10.
 	// Dentro del white incrementamos el valor del contador en 1. Se muestra el valor de $cotador en cada iteración.
