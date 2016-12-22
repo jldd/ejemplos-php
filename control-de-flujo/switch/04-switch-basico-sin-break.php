@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de Condicioales en  PHP - https://www.dinapyme.com
+	// Ejemplo de Condicionales en  PHP - https://www.dinapyme.com
 	// Ejemplo sobre el uso de Switch sin break
 	// Comparación de varios números para mostrar por pantalla si uno de los tres números del switch u otro diferente.
 	// En este ejemplo no utilizamos break para ver cual sería el resultado si no lo usamos.

@@ -1,5 +1,5 @@
 <?php
-	// Ejemplo de Condicioales en  PHP - https://www.dinapyme.com
+	// Ejemplo de Condicionales en  PHP - https://www.dinapyme.com
 	// Ejemplo sobre el uso de Switch 
 	// Comparación del día para saber qué día de la semana es.
 	
