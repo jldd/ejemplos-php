@@ -1,7 +1,7 @@
 <?php
 	// Ejemplo de Bucles en  PHP - https://www.dinapyme.com
-	// Ejemplo sobre Operador While
-	// Creamos un buclie con While hasta que el número sea 100.
+	// Ejemplo sobre Operador Do While
+	// Creamos un bucle con Do While hasta que el número sea 100.
 	// Dentro del while incrementamos el valor del contador en 1. Se muestra el valor de $cotador en cada iteración.
 ?>
 
@@ -17,10 +17,11 @@
 			
 		$contador = 1;  // Valor inicial para la variable $contador
 		
-		while ($contador <= 100) {  // Mientras $contador sea menor o igual que 10
+		do {  // Mientras $contador sea menor o igual que 10
 			echo $contador . "<br />";
 			$contador++;
-		}	
+		}
+		while ($contador <= 100);
 	?>
 </body>
 </html>
