@@ -1,6 +1,6 @@
 <?php
 	// Ejemplo de Arrays en  PHP - https://www.dinapyme.com
-	// Primer ejemplo: Crear un array con 5 elemementos de texto (strings) con funcion array().
+	// Crear un array con 5 elemementos de texto (strings) con funcion array().
 	// Posteriormente mostrar todos los elementos del array con bucle foreach.
 	
 	$nombres = array ("Oscar", "Sara", "Juan", "Pedro", "Yoli");
