@@ -1,6 +1,6 @@
 <?php
 	// Ejemplo de proceso de datos de formularios en  PHP 
-	// Recoger los datos del formulario enviado por el fichero "01-formulario-basico-envio-dato.html".
+	// Recoger los datos del formulario enviado por el fichero "02-formulario-basico-envio-datos-con-reset.html".
 	// Procesar tanto el nombre como el mensaje para mostralo por pantalla.
 	// Ejemplo realizado por Óscar Abad Folgueira: http://www.oscarabadfolgueira.com y https://www.dinapyme.com
 	
